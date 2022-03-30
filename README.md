@@ -8,7 +8,7 @@ word of a a tweet's letters are calcuated and then graphed on a 9 point circle
 
 ## What is vortex math?
 
-A psuedoscientifc mathematics that professes finding a digital root to letters and other numbers, the secrets of the universe can be found.
+A pseudoscientific mathematics based philosophy that professes that finding a digital root to letters and other numbers, we can see "the secrets" of the universe and its' fundmental math.
 
 "Vortex math is a system of numbers which explains the essence of form as a sphere with a vortex..." 
 https://aayushivaish.medium.com/vortex-mathematics-source-code-of-the-universe-23749cc4ad6
